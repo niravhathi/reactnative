@@ -1,0 +1,2 @@
+dependencies: \
+  /Users/niravhathi/Documents/Nirav\ Hathi/Tutorial/React\ Native/AwesomeProject/ios/build/Build/Intermediates.noindex/AwesomeProject.build/Debug-iphonesimulator/AwesomeProject.build/DerivedSources/AwesomeProject_vers.c
